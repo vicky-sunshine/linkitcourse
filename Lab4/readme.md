@@ -29,6 +29,9 @@ Hint: 記得要先呼叫 `dht.read()` 才會將資料讀進來！
 
 請去填
 1. WIFI_AP
+
 1. WIFI_PASSWORD
+
 1. SITE_URL
+
 1. HTTP Request (在`setup()`裡)
