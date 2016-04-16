@@ -21,4 +21,4 @@ Wifi連成功的話，會先看到 `Connecting to AP`
 
 網站成功連上的話，會看到 `Connecting to WebSite`
 
-之後就可以在 Serial Monitor 上看到跟 google.com 再傳訊息
+之後就可以在 Serial Monitor 上看到跟 google.com 正在傳訊息
