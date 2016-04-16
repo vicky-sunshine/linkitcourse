@@ -11,3 +11,6 @@
 
 #### Example 3 Servo
 讓 Servo 馬達的扇頁來回轉動
+
+#### Level
+簡單操作 Led Bar 的範例
