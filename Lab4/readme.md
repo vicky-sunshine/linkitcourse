@@ -3,6 +3,8 @@
 ### LDHT_Sensor
 這是溫濕度感測器的範例
 
+記得型號和接的 pin 腳要對
+
 Hint: 記得要先呼叫 `dht.read()` 才會將資料讀進來！
 
 之後 `dht.readTemperature()` 才會有值

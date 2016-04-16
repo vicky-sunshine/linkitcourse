@@ -4,7 +4,7 @@
 #include "LDHT.h"
 
 #define DHTPIN 8          // what pin we're connected to
-#define DHTTYPE DHT11     // using DHT11 sensor
+#define DHTTYPE DHT22     // using DHT11 sensor
 
 LDHT dht(DHTPIN,DHTTYPE);
 
