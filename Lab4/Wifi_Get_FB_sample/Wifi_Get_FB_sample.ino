@@ -1,10 +1,10 @@
 #include <LWiFi.h>
 #include <LWiFiClient.h>
 
-#define WIFI_AP "WLW"        //WiFi AP名稱
-#define WIFI_PASSWORD "55555555"  //WiFi密碼
+#define WIFI_AP ""        //WiFi AP名稱
+#define WIFI_PASSWORD ""  //WiFi密碼
 #define WIFI_AUTH LWIFI_WPA  // choose from LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP.
-#define SITE_URL "graph.facebook.com"
+#define SITE_URL ""
 #define LIKE_SUBSTRING "\"category\":"
 #define BUFFER_SIZE 65536
 
