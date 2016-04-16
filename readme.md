@@ -1,5 +1,9 @@
-Discussion of NTHU Linkit Course 
-==
-[![Join the chat at https://gitter.im/hsnl-dev/linkitcourse](https://badges.gitter.im/hsnl-dev/linkitcourse.svg)](https://gitter.im/hsnl-dev/linkitcourse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Discussion of NTHU Linkit Course
 
-![pic](http://www.sharecourse.net/sharecourse/upload/course/734/97c209ca505f2958db30a42135afab5c.jpg)
+### 04/16/2016
+#### Lab3
+大家可以參考 Lab 3 的範例1跟範例3來做出目標二
+
+#### Lab 4 Hint
+**溫濕度**
+記得要先呼叫 `dht.read()` 之後才會將資料讀進來
