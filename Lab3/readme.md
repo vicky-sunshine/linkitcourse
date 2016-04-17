@@ -13,4 +13,4 @@
 讓 Servo 馬達的扇頁來回轉動
 
 #### Level
-簡單操作 Led Bar 的範例
+簡單操作 Led Bar 的範例，使用的 [library](https://github.com/Seeed-Studio/Grove_LED_Bar)
