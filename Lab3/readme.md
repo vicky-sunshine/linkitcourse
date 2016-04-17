@@ -7,7 +7,7 @@
 
 #### Example 2 analogWrite
 使用 `analogＷrite()` 來控制LED的亮度，LED亮度會從暗漸亮
-
+(這邊是指單顆的LED燈，不是指sensor pack的 LED Bar)
 
 #### Example 3 Servo
 讓 Servo 馬達的扇頁來回轉動
